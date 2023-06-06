@@ -5,6 +5,8 @@
 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including  Python, draw.io, Pandas, Tableau
 
+##### Check out the dashboard 
+
 ## Methodology 
 ![Methodology ](https://github.com/Vishal2546/Tableau_dashboard_Projects/assets/110054448/5694bd97-3005-4a68-93e9-a25bcef49166)
 
